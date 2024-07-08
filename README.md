@@ -38,17 +38,12 @@ This project is a full-stack CRUD (Create, Read, Update, Delete) web application
 
 ### Backend (Spring Boot)
 
-1. **Clone the repository:**
-   ```bash
-   git clone <repository-url>
-   ```
-
-2. **Navigate to the backend directory:**
+1. **Navigate to the backend directory:**
    ```bash
    cd backend
    ```
 
-3. **Update MySQL configurations:**
+2. **Update MySQL configurations:**
    Edit `application.properties` to configure your MySQL database settings.
    ```properties
    spring.datasource.url=jdbc:mysql://localhost:3306/student_db
@@ -57,7 +52,7 @@ This project is a full-stack CRUD (Create, Read, Update, Delete) web application
    spring.jpa.hibernate.ddl-auto=update
    ```
 
-4. **Build and run the backend application:**
+3. **Build and run the backend application:**
    ```bash
    mvn clean install
    mvn spring-boot:run
@@ -89,19 +84,3 @@ This project is a full-stack CRUD (Create, Read, Update, Delete) web application
 - **View Students**: Click on the "View Students" link to see the list of students. Each student record has options to update or delete.
 - **Update Student**: Click on the "Update" link next to a student record, modify the details, and save.
 - **Delete Student**: Click on the "Delete" link next to a student record to remove it from the database.
-
-## Contributing
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Create a new Pull Request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
-
-For any inquiries or feedback, please contact [your-email@example.com].
