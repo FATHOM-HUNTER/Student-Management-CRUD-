@@ -7,16 +7,16 @@ This project is a full-stack CRUD (Create, Read, Update, Delete) web application
 ## Features
 
 - **Add Student**: Allows users to add new student records.
-- ![image](https://github.com/FATHOM-HUNTER/Student-Management-CRUD-/assets/88205680/73dba853-5b66-4755-896c-9fc11be7d0c7)
+ ![image](https://github.com/FATHOM-HUNTER/Student-Management-CRUD-/assets/88205680/73dba853-5b66-4755-896c-9fc11be7d0c7)
 
 - **View Students**: Displays a list of all students with options to update or delete each record.
-- ![image](https://github.com/FATHOM-HUNTER/Student-Management-CRUD-/assets/88205680/18747f8b-c2a3-444d-bf9c-d8531980b994)
+ ![image](https://github.com/FATHOM-HUNTER/Student-Management-CRUD-/assets/88205680/18747f8b-c2a3-444d-bf9c-d8531980b994)
 
 - **Update Student**: Enables users to update existing student information.
-- ![image](https://github.com/FATHOM-HUNTER/Student-Management-CRUD-/assets/88205680/bb7866fe-7c79-47b7-aaae-27184bf887ef)
+ ![image](https://github.com/FATHOM-HUNTER/Student-Management-CRUD-/assets/88205680/bb7866fe-7c79-47b7-aaae-27184bf887ef)
 
 - **Delete Student**: Allows users to delete a student record from the database.
-- ![image](https://github.com/FATHOM-HUNTER/Student-Management-CRUD-/assets/88205680/1f4e58d7-9d63-4198-a180-88004e4321df)
+ ![image](https://github.com/FATHOM-HUNTER/Student-Management-CRUD-/assets/88205680/1f4e58d7-9d63-4198-a180-88004e4321df)
  
 
 ## Technologies Used
