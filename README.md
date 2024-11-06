@@ -24,15 +24,12 @@ This project is a full-stack CRUD (Create, Read, Update, Delete) web application
 - **Backend**: Spring Boot 2, Hibernate 5
 - **Frontend**: Angular 6
 - **Database**: MySQL
-- **Server**: Apache Tomcat
-- **IDE**: Spring Tool Suite (STS) for backend development, Visual Studio Code for frontend development
 
 ## Prerequisites
 
 - Java JDK 8 or higher
 - Node.js and npm
 - MySQL
-- Apache Tomcat server
 
 ## Setup and Installation
 
